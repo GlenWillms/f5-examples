@@ -54,3 +54,4 @@ DO_1nic.json
 Gemfile.lock
 test/reports
 !test/reports/.gitkeep
+.DS_Store
